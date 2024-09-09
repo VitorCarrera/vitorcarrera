@@ -1,7 +1,7 @@
 ### Hi there! My Name is Vitor Carrera 👋
 
 
-- 🌱 I’m currently learning Web APIs and Microservices in ASP.NET Core and HTML, CSS and JS
+- 🌱 I’m currently learning Web APIs and Microservices in ASP.NET Core and Python / Django and Flask
 - 📫 How to reach me: vitorcarreraya@gmail.com
 
 
